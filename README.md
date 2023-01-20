@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software engineer with a interest in Full Stack Developement.
-I'm currently working on making a wordle clone and a quiz game.
-I'm currently learning python and studying data structures & algorithms.
-I'm looking to collaborate with other developers on their personal projects or anyone who would like to build something together. 
-Fun Fact: I like to play competitive sudoku. Let's see who can complete their puzzle the fastest. 
+😄 I'm a software engineer with a interest in Full Stack Developement. <br>
+🔭 I'm currently working on making a wordle clone and a quiz game. <br>
+🌱 I'm currently learning python and studying data structures & algorithms. <br>
+👯 I'm looking to collaborate with other developers on their personal projects or anyone who would like to build something together. <br>
+⚡ Fun Fact: I like to play competitive sudoku. Let's see who can complete their puzzle the fastest. 
