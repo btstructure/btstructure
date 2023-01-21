@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 👯 I'm looking to collaborate with other developers on their personal projects or anyone who would like to build something together. <br>
 ⚡ Fun Fact: I like to play competitive sudoku. Let's see who can complete their puzzle the fastest. 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=btstructure&show_icons=true&theme=radical)](https://github.com/btstructure/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=btstructure&show_icons=true&theme=radical)](https://github.com/btstructure/github-readme-stats) <br>
+
+Feel free to connect with me on <a href="https://www.linkedin.com/in/beyhan-taylan/" target="_blank">LinkedIn</a>.
