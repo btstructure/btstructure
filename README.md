@@ -1,29 +1,21 @@
-### Hi there, I'm Beyhan 👋
+<h1 align="center">Hi 👋, I'm Beyhan</h1>
+<h3 align="center">A software developer looking for an entry level position as a full stack developer.</h3>
 
-<!--
-**btstructure/btstructure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=btstructure&label=Profile%20views&color=0e75b6&style=flat" alt="btstructure" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **making a messenger application.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **python and graphql.**
 
-😄 I'm a software engineer with a interest in Full Stack Developement. <br>
-🔭 I'm currently working on making a wordle clone and a quiz game. <br>
-🌱 I'm currently learning python and studying data structures & algorithms. <br>
-👯 I'm looking to collaborate with other developers on their personal projects or anyone who would like to build something together. <br>
-⚡ Fun Fact: I like to play competitive sudoku. Let's see who can complete their puzzle the fastest. 
+- 👨‍💻 All of my projects are available at [https://beyhantaylan.netlify.app/](https://beyhantaylan.netlify.app/)
 
+- ⚡ Fun fact **I like to play competitive sudoku. Let's see who can complete their puzzle the fastest.**
 
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/beyhan-taylan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beyhan-taylan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/btstructure97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="btstructure97" height="30" width="40" /></a>
+</p>
 
 <h2 align = "center"> Languages & Frameworks</h2>  
 <div align = "center">
@@ -37,8 +29,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=50 width=50  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=50 width=50  />
 </div>
+<br />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btstructure&show_icons=true&locale=en&layout=compact" alt="btstructure" /></p>
+<br />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btstructure&show_icons=true&locale=en" alt="btstructure" /></p>
 
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark&text_bold&text_color=fff&title_color=fff&hide_border=true&hide_title=true&langs_count=8&hide=Jupyter+Notebook&exclude_repo=user-input,linked-list&langs_count=Typescript" width="480"/></p>
-
-<p align="center">Feel free to connect with me on <a href="https://www.linkedin.com/in/beyhan-taylan/" target="_blank">LinkedIn</a>.</p>
