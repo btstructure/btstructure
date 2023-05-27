@@ -2,9 +2,9 @@
 <h3 align="center">A software developer looking for an entry level position as a full stack developer.</h3>
 
 
-- 🔭 I’m currently working on **making a messenger application.**
+- 🔭 I’m currently working on **a messenger application.**
 
-- 🌱 I’m currently learning **python and graphql.**
+- 🌱 I’m currently learning **typescript, python, and graphql.**
 
 - 👨‍💻 All of my projects are available at [https://beyhantaylan.netlify.app/](https://beyhantaylan.netlify.app/)
 
