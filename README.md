@@ -30,6 +30,4 @@
 </div>
 <br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btstructure&show_icons=true&locale=en&layout=compact" alt="btstructure" /></p>
-<br />
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btstructure&show_icons=true&locale=en" alt="btstructure" /></p>
 
