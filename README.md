@@ -2,7 +2,7 @@
 <h3 align="center">A software developer looking for an entry level position as a full stack developer.</h3>
 
 
-- 🔭 I’m currently working on **a messenger application.**
+- 🔭 I’m currently working on **a mta notification of trail arrivals.**
 
 - 🌱 I’m currently learning **typescript, python, and graphql.**
 
