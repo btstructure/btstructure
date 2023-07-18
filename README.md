@@ -2,7 +2,7 @@
 <h3 align="center">A software developer looking for an entry level position as a full stack developer.</h3>
 
 
-- 🔭 I’m currently working on **an app that notifies of MTA train arrivals.**
+- 🔭 I’m currently working on **an app that notifies of MTA train arrivals.** - <a href="https://github.com/shawnkoong/mta-tracker-fe/">MTA Tracker Frontend</a>
 
 - 🌱 I’m currently learning **typescript, python, and graphql.**
 
